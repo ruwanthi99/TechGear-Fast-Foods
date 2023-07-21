@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bacon &#8211; TechGear Foods</title>
+	<atom:link href="httpruwanthimangala.github.io/TechGear-Fast-Foods//product-tag/bacon/feed/" rel="self" type="application/rss+xml" />
+	<link>httpruwanthimangala.github.io/TechGear-Fast-Foods/</link>
+	<description></description>
+	<lastBuildDate>Sat, 15 Jul 2023 20:25:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Super Bacon</title>
+		<link>httpruwanthimangala.github.io/TechGear-Fast-Foods//product/super-bacon/</link>
+					<comments>httpruwanthimangala.github.io/TechGear-Fast-Foods//product/super-bacon/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 03 Sep 2021 17:32:04 +0000</pubDate>
+				<guid isPermaLink="false">https://startertemplatecloud.com/g09/?post_type=product&#038;p=2142</guid>
+
+					<description><![CDATA[Tasty]]></description>
+										<content:encoded><![CDATA[<p>Tasty</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>httpruwanthimangala.github.io/TechGear-Fast-Foods//product/super-bacon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
